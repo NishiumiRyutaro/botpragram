@@ -1,4 +1,4 @@
-#!python3.6
+#!python3.7.4
 
 import discord
 
