@@ -1,3 +1,5 @@
+#!python3.6
+
 import discord
 
 client = discord.Client()
